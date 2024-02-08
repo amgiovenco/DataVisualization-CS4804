@@ -1,2 +1,2 @@
-# DataVisualization-CS4804
-CS 4804 Data Visualization, C Term 2024
+Alessandra Giovenco - C Term 2024
+CS 4804 - Data Visualization, Professor Lane Harrison
